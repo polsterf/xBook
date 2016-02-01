@@ -1,2 +1,2 @@
 # xBook
-The xBook project describes concepts surrounding the use of the proposed versatile and extensible xBook framework that acts as a brokerage service via an xAPI interface between industry standard ePub3 publications, dynamic external media elements, user-specific performance data, and collaborative learning opportunities in both synchronous and asynchronous learning paradigms to crowdsource learning outcomes and extend the life and value of traditional static digital publication content.
+The xBook project describes concepts s
